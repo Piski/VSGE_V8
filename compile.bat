@@ -1,0 +1,1 @@
+javac src\vsge\core\*.java src\vsge\events\*.java src\vsge\graphics\*.java src\vsge\states\*.java src\vsge\ui\*.java
